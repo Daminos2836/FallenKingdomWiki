@@ -1,0 +1,14 @@
+{
+    "title": "Fallen Kingdom Plugin",
+    "tagline": "Wiki du plugin le plus complet qui existe",
+    "format": "html",
+    "language": "fr",
+    "languages": {
+        "fr": "Français",
+        "en": "English"
+    },
+    "html": {
+        "edit_on_github": "Daminos2836/FallenKingdomWiki/blob/master/docs",
+        "search": true
+    }
+}

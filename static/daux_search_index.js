@@ -1,1 +1,1 @@
-load_search_index({"pages":[]});
+load_search_index({"pages":[{"title":"Fallen Kingdom Plugin","text":"","tags":"","url":"index.html"},{"title":"Home","text":"Comming soon","tags":"","url":"en\/Home.html"},{"title":"Accueil","text":"Comming soon","tags":"","url":"fr\/Home.html"}]});
